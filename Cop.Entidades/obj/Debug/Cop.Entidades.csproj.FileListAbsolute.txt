@@ -1,0 +1,5 @@
+C:\Users\gonro\Desktop\COP\Cop.Entidades\bin\Debug\Cop.Entidades.dll
+C:\Users\gonro\Desktop\COP\Cop.Entidades\bin\Debug\Cop.Entidades.pdb
+C:\Users\gonro\Desktop\COP\Cop.Entidades\obj\Debug\Cop.Entidades.csprojAssemblyReference.cache
+C:\Users\gonro\Desktop\COP\Cop.Entidades\obj\Debug\Cop.Entidades.dll
+C:\Users\gonro\Desktop\COP\Cop.Entidades\obj\Debug\Cop.Entidades.pdb

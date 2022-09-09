@@ -1,0 +1,11 @@
+C:\Users\gonro\Desktop\COP\COP\bin\Debug\COP.exe.config
+C:\Users\gonro\Desktop\COP\COP\bin\Debug\COP.exe
+C:\Users\gonro\Desktop\COP\COP\bin\Debug\COP.pdb
+C:\Users\gonro\Desktop\COP\COP\bin\Debug\Cop.API.dll
+C:\Users\gonro\Desktop\COP\COP\bin\Debug\Cop.Entidades.dll
+C:\Users\gonro\Desktop\COP\COP\bin\Debug\Cop.API.pdb
+C:\Users\gonro\Desktop\COP\COP\bin\Debug\Cop.Entidades.pdb
+C:\Users\gonro\Desktop\COP\COP\obj\Debug\Cop.csprojAssemblyReference.cache
+C:\Users\gonro\Desktop\COP\COP\obj\Debug\Cop.csproj.CopyComplete
+C:\Users\gonro\Desktop\COP\COP\obj\Debug\COP.exe
+C:\Users\gonro\Desktop\COP\COP\obj\Debug\COP.pdb
